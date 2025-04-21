@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Jay",
+    "email": "",
+    "phoneNumber": "",
+    "addressStreet": "",
+    "addressCity": "",
+    "addressState": "",
+    "addressPostalCode": "",
+    "pictureURL": "",
+    "isFamilyMember": true,
+    "dateOfBirth": ""
+  },
+  {
+    "id": 2,
+    "name": "Nola",
+    "email": "",
+    "phoneNumber": "",
+    "addressStreet": "",
+    "addressCity": "",
+    "addressState": "",
+    "addressPostalCode": "",
+    "webURL": "",
+    "myOpinionRating": 0,
+    "daysOpen": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "businessType": "General"
+  },
+  {
+    "id": 3,
+    "name": "THunder",
+    "email": "Thunder@gcu.edu ",
+    "phoneNumber": "6026397749",
+    "addressStreet": "3300 W camel ",
+    "addressCity": "Lopes",
+    "addressState": "AZ",
+    "addressPostalCode": "85007",
+    "webURL": "gcu.edu",
+    "myOpinionRating": 5,
+    "daysOpen": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "businessType": "General"
+  },
+  {
+    "id": 4,
+    "name": "Jordan Scott",
+    "email": "Jordan@gcu.edu",
+    "phoneNumber": "5041234615",
+    "addressStreet": "3300 Lopes Way",
+    "addressCity": "Lopes",
+    "addressState": "AZ",
+    "addressPostalCode": "850007",
+    "pictureURL": "",
+    "isFamilyMember": true,
+    "dateOfBirth": "01/06/2003"
+  },
+  {
+    "id": 5,
+    "name": "Dyaln J",
+    "email": "Dylan@gcu.edu",
+    "phoneNumber": "1234567890",
+    "addressStreet": "123 Magic",
+    "addressCity": "Lopes",
+    "addressState": "AZ",
+    "addressPostalCode": "85007",
+    "webURL": "gcu.edu",
+    "myOpinionRating": 5,
+    "daysOpen": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "businessType": "General"
+  }
+]
